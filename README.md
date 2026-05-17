@@ -1,64 +1,46 @@
-# MakerMinds Atelier 
+# 🍽️ MakerMinds Atelier
 
-A modern luxury restaurant web application developed with ReactJS, TailwindCSS, JavaScript and Vite.
+A modern luxury restaurant web application built with ReactJS, TailwindCSS, JavaScript and Vite.
 
-The project was created as part of the MakerMinds frontend application task and focuses on modern UI/UX design, reusable React components and responsive layouts.
+This project was developed as part of the MakerMinds frontend application task, focusing on modern UI/UX design, reusable components, and responsive architecture.
 
 ---
 
-# Features
+## ✨ Overview
 
-- Modern luxury restaurant interface
-- Responsive design for desktop and mobile
-- Interactive navigation system
-- Dynamic menu sections:
+MakerMinds Atelier is a premium restaurant web experience that simulates a real fine dining brand.  
+It includes an elegant interface, structured menu system, and interactive reservation system.
+
+The main goal of this project was to demonstrate:
+- clean component-based structure
+- modern frontend development practices
+- strong UI/UX design sense
+- responsive web design principles
+
+---
+
+## 🚀 Features
+
+- Luxury modern restaurant UI
+- Fully responsive design (mobile & desktop)
+- Smooth navigation system (Home / Menu / About)
+- Dynamic menu categories:
   - Food
   - Drinks
   - Desserts
-- Reservation modal system
-- Reservation success popup
-- Premium animations and hover effects
-- Component-based React architecture
+- Interactive reservation modal
+- Reservation success notification
+- Clean animations & hover effects
+- Reusable React components
 
 ---
 
-#  Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6+)
 - ReactJS
 - TailwindCSS
 - Vite
 
----
-
-# Project Structure
-
-src/
-│
-├── components/
-│   ├── Navbar.jsx
-│   ├── ReserveModal.jsx
-│   └── Success.jsx
-│
-├── pages/
-│   ├── Home.jsx
-│   ├── Menu.jsx
-│   └── About.jsx
-│
-├── data/
-│   └── menu.js
-│
-├── App.jsx
-├── main.jsx
-└── index.css
-
----
-
-# Installation
-
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
