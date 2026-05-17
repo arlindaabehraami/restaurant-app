@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Manrope:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background:#0f1115;
+  color:#f3f4f6;
+  font-family:'Manrope',sans-serif;
+}
+
+h1,h2,h3{
+  font-family:'DM Serif Display',serif;
+}
+
+:root{
+  --accent:#d6c3a5;
+}
+
+.text-accent{
+  color:var(--accent);
+}
+
+.bg-accent{
+  background:var(--accent);
+}

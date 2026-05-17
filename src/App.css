@@ -1,0 +1,36 @@
+.app {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #0a0a0a, #111);
+}
+
+.hero {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.hero h1 {
+  font-size: 50px;
+  color: #d4af37;
+  letter-spacing: 2px;
+}
+
+.hero p {
+  margin-top: 10px;
+  color: #ccc;
+  font-size: 18px;
+}
+
+.button {
+  margin-top: 20px;
+  padding: 12px 25px;
+  background-color: #d4af37;
+  border: none;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
