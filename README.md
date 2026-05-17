@@ -1,4 +1,4 @@
-# MakerMinds Atelier 🍽️
+# MakerMinds Atelier 
 
 A modern luxury restaurant web application developed with ReactJS, TailwindCSS, JavaScript and Vite.
 
